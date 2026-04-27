@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Today's Cryptocurrency Prices 🪙")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "MA 705 Class on Monday, April 27, 2026"
 )
 
 common_crypto_symbols = [
